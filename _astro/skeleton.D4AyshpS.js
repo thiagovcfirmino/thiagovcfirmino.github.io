@@ -1,0 +1,1 @@
+import{j as t,a as e}from"./createLucideIcon.CyPHmFJx.js";const o=3600*1e3,c={GITHUB_REPOS:"github-repos-cache",WAKATIME_STATS:"wakatime-stats-cache"};function r({className:a,...s}){return t.jsx("div",{"data-slot":"skeleton",className:e("bg-accent animate-pulse rounded-md",a),...s})}export{c as C,r as S,o as a};
